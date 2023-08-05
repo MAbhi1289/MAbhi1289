@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MAbhi1289
-- 🌱 I’m currently learning devops 
+- 🌱 Devops Practitioner 
 - 💞️ I’m looking to collaborate on Azure Devops...
 - 📫 How to reach me ...
 
